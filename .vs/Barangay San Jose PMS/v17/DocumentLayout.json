@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|c:\\users\\kyle\\desktop\\payroll  barangay\\barangay san jose pms\\barangay san jose pms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|solutionrelative:barangay san jose pms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|c:\\users\\kyle\\desktop\\payroll  barangay\\barangay san jose pms\\barangay san jose pms\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|solutionrelative:barangay san jose pms\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|c:\\users\\kyle\\desktop\\payroll  barangay\\barangay san jose pms\\barangay san jose pms\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|solutionrelative:barangay san jose pms\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|c:\\users\\kyle\\desktop\\payroll  barangay\\barangay san jose pms\\barangay san jose pms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|solutionrelative:barangay san jose pms\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|c:\\users\\kyle\\desktop\\payroll  barangay\\barangay san jose pms\\barangay san jose pms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|solutionrelative:barangay san jose pms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|c:\\users\\kyle\\desktop\\payroll  barangay\\barangay san jose pms\\barangay san jose pms\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{993ED6A6-CE1F-4067-A18A-5D496756B2FB}|Barangay San Jose PMS\\Barangay San Jose PMS.vbproj|solutionrelative:barangay san jose pms\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form3.vb",
+              "RelativeDocumentMoniker": "Barangay San Jose PMS\\Form3.vb",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form3.vb [Design]",
+              "RelativeToolTip": "Barangay San Jose PMS\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T11:00:21.242Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form2.vb",
+              "RelativeDocumentMoniker": "Barangay San Jose PMS\\Form2.vb",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form2.vb",
+              "RelativeToolTip": "Barangay San Jose PMS\\Form2.vb",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T10:39:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form2.vb",
+              "RelativeDocumentMoniker": "Barangay San Jose PMS\\Form2.vb",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form2.vb [Design]",
+              "RelativeToolTip": "Barangay San Jose PMS\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T10:39:32.493Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form1.vb",
+              "RelativeDocumentMoniker": "Barangay San Jose PMS\\Form1.vb",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form1.vb [Design]",
+              "RelativeToolTip": "Barangay San Jose PMS\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-29T10:39:29.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form6.vb",
+              "RelativeDocumentMoniker": "Barangay San Jose PMS\\Form6.vb",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form6.vb [Design]",
+              "RelativeToolTip": "Barangay San Jose PMS\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T15:26:22.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form7.vb",
+              "RelativeDocumentMoniker": "Barangay San Jose PMS\\Form7.vb",
+              "ToolTip": "C:\\Users\\Kyle\\Desktop\\payroll  barangay\\Barangay San Jose PMS\\Barangay San Jose PMS\\Form7.vb [Design]",
+              "RelativeToolTip": "Barangay San Jose PMS\\Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T18:15:45.674Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
